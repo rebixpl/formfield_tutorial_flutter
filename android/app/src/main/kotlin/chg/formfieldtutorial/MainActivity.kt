@@ -1,0 +1,6 @@
+package chg.formfieldtutorial
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
